@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @fanchez
-- 👀 I’m interested in vue.js, net core, c#, vb6, vb.net
+- 👋 Hi, I’m @fsanchezrd
+- 👀 I’m interested in vue.js, net core, c#, vb6, vb.net, react.js
 - 🌱 I’m currently learning vue.js
 
 <!---
